@@ -1,0 +1,26 @@
+{"customer_id": "C12", "basket": [{"product_id": "P33", "price": 1291}], "date_of_purchase": "2020-05-17 10:35:20.977808"}
+{"customer_id": "C13", "basket": [{"product_id": "P60", "price": 1577}], "date_of_purchase": "2020-05-17 14:40:20.977808"}
+{"customer_id": "C15", "basket": [{"product_id": "P60", "price": 1116}, {"product_id": "P51", "price": 1805}, {"product_id": "P46", "price": 1994}], "date_of_purchase": "2020-05-17 01:44:20.977808"}
+{"customer_id": "C20", "basket": [{"product_id": "P50", "price": 702}, {"product_id": "P59", "price": 110}, {"product_id": "P59", "price": 1121}], "date_of_purchase": "2020-05-17 17:40:20.977808"}
+{"customer_id": "C22", "basket": [{"product_id": "P26", "price": 1520}], "date_of_purchase": "2020-05-17 04:53:20.977808"}
+{"customer_id": "C23", "basket": [{"product_id": "P44", "price": 1402}, {"product_id": "P44", "price": 810}], "date_of_purchase": "2020-05-17 09:45:20.977808"}
+{"customer_id": "C24", "basket": [{"product_id": "P46", "price": 700}, {"product_id": "P51", "price": 1716}], "date_of_purchase": "2020-05-17 15:16:20.977808"}
+{"customer_id": "C43", "basket": [{"product_id": "P53", "price": 1209}, {"product_id": "P41", "price": 1516}, {"product_id": "P46", "price": 1202}], "date_of_purchase": "2020-05-17 20:10:20.977808"}
+{"customer_id": "C46", "basket": [{"product_id": "P34", "price": 1692}, {"product_id": "P34", "price": 794}], "date_of_purchase": "2020-05-17 17:14:20.977808"}
+{"customer_id": "C52", "basket": [{"product_id": "P31", "price": 723}, {"product_id": "P34", "price": 1905}], "date_of_purchase": "2020-05-17 14:29:20.977808"}
+{"customer_id": "C55", "basket": [{"product_id": "P49", "price": 673}, {"product_id": "P54", "price": 1427}, {"product_id": "P46", "price": 1114}], "date_of_purchase": "2020-05-17 18:04:20.977808"}
+{"customer_id": "C57", "basket": [{"product_id": "P08", "price": 172}, {"product_id": "P01", "price": 1762}, {"product_id": "P01", "price": 1447}], "date_of_purchase": "2020-05-17 19:06:20.977808"}
+{"customer_id": "C63", "basket": [{"product_id": "P64", "price": 1434}, {"product_id": "P64", "price": 1880}], "date_of_purchase": "2020-05-17 09:01:20.977808"}
+{"customer_id": "C69", "basket": [{"product_id": "P39", "price": 1503}], "date_of_purchase": "2020-05-17 03:14:20.977808"}
+{"customer_id": "C79", "basket": [{"product_id": "P61", "price": 1840}, {"product_id": "P64", "price": 212}], "date_of_purchase": "2020-05-17 03:53:20.977808"}
+{"customer_id": "C82", "basket": [{"product_id": "P35", "price": 1214}], "date_of_purchase": "2020-05-17 11:39:20.977808"}
+{"customer_id": "C88", "basket": [{"product_id": "P16", "price": 1613}], "date_of_purchase": "2020-05-17 10:28:20.977808"}
+{"customer_id": "C93", "basket": [{"product_id": "P60", "price": 1209}], "date_of_purchase": "2020-05-17 03:04:20.977808"}
+{"customer_id": "C99", "basket": [{"product_id": "P01", "price": 110}, {"product_id": "P04", "price": 1492}], "date_of_purchase": "2020-05-17 05:04:20.977808"}
+{"customer_id": "C101", "basket": [{"product_id": "P33", "price": 1331}, {"product_id": "P34", "price": 736}], "date_of_purchase": "2020-05-17 15:04:20.977808"}
+{"customer_id": "C119", "basket": [{"product_id": "P23", "price": 103}, {"product_id": "P23", "price": 1882}], "date_of_purchase": "2020-05-17 21:39:20.977808"}
+{"customer_id": "C124", "basket": [{"product_id": "P28", "price": 1111}], "date_of_purchase": "2020-05-17 01:58:20.977808"}
+{"customer_id": "C125", "basket": [{"product_id": "P25", "price": 672}, {"product_id": "P25", "price": 171}], "date_of_purchase": "2020-05-17 16:34:20.977808"}
+{"customer_id": "C129", "basket": [{"product_id": "P63", "price": 1258}, {"product_id": "P63", "price": 1178}, {"product_id": "P62", "price": 1877}], "date_of_purchase": "2020-05-17 09:56:20.977808"}
+{"customer_id": "C136", "basket": [{"product_id": "P07", "price": 709}, {"product_id": "P10", "price": 994}], "date_of_purchase": "2020-05-17 03:22:20.977808"}
+{"customer_id": "C137", "basket": [{"product_id": "P39", "price": 1254}], "date_of_purchase": "2020-05-17 08:51:20.977808"}
